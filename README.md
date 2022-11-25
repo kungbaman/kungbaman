@@ -9,7 +9,7 @@
 <br />
  
 <p align="center">
-<a href="/kungbaman/README.md" alt="Eng ver">English</a>
+<a href="https://github.com/kungbaman" alt="Eng ver">English</a>
 ·
 <a href="/docs/readme_th.md" alt="Thai ver">ภาษาไทย</a>
 </p>
