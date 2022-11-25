@@ -6,6 +6,15 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Although, I graduated about from English Major, my other favorite is programming. Because every time I'm [programming](https://github.com/kungbaman), it's kind a beating in my mind and I'm so very excited. Before, I was the experience about IT Support more 1yrs. And I'm literate and be familiar programming language with HTML5, CSS, JavaScript, Bootstrap and React JS nowadays.
 
 <br />
+<br />
+ 
+<p align="center">
+<a href="/readme_th.md" alt="Eng ver">English</a>
+·
+<a href="/docs/readme_th.md" alt="thai ver">ภาษาไทย</a>
+</p>
+
+<br />
 
 ##  :rocket: My Abilities
 - :high_brightness: **Proficient in:** Front End Development
