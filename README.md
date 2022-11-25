@@ -8,7 +8,7 @@
 <br />
 
 ##  :rocket: My Abilities
-- :high_brightness: **Proficient in:** Front End Developent
+- :high_brightness: **Proficient in:** Front End Development
    - HTML, CSS, JavaScript, Bootstrap, ReactJS
    - Version Control (Git)
 - :running: Interest in: Front End Developer
