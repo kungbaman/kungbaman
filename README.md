@@ -37,5 +37,3 @@
 [![Website](https://img.shields.io/badge/-Natchapol%20Kamonchanoktham-6851DB?style=flat-square&logo=Google-Chrome&logoColor=BFBFBF&link=https://reactportfolio-natchapol.netlify.app/)](https://reactportfolio-natchapol.netlify.app/)
 [![Messenger](https://img.shields.io/badge/-Natchapol%20K%20Kamonchanoktham-E47C7E?style=flat-square&logo=Messenger&logoColor=white&link=https://www.linkedin.com/in/natchapol-kamonchanoktham-551b18190/)](https://www.messenger.com/t/100003381651560/) </div>
 
-<!-- kungbamandev:START -->
-<!-- kungbamandev:END -->
