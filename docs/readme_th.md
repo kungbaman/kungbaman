@@ -8,7 +8,7 @@
  <br />
  
 <p align="center">
-<a href="README.md" alt="Eng ver">English</a>
+<a href="/README.md" alt="Eng ver">English</a>
 ·
 <a href="/docs/readme_th.md" alt="Thai ver">ภาษาไทย</a>
 </p>
