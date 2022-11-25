@@ -7,11 +7,11 @@
  <br />
  <br />
  
- <p align="center">
- <a href="/readme_th.md" alt="Eng ver">English</a>
- ·
- <a href="/docs/readme_th.md" alt="thai ver">ภาษาไทย</a>
- </p>
+<p align="center">
+<a href="/kungbaman/README.md" alt="Eng ver">English</a>
+·
+<a href="/docs/readme_th.md" alt="Thai ver">ภาษาไทย</a>
+</p>
 
 <br />
 
