@@ -20,6 +20,7 @@
 - :high_brightness: **Proficient in:** Front End Development
    - HTML, CSS, JavaScript, Bootstrap, ReactJS
    - Version Control (Git)
+   - SQL (SQLite)
 - :running: Interest in: Front End Developer
 <br />
 
