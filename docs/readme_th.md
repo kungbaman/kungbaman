@@ -32,7 +32,7 @@
 <br/>
 
 <p align="center">
-<img height="30" src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,sqlite,git,github,vscode" />
+<img height="30" src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,sqlite,git,github" />
 </p>
 
 ## :post_office: My Experience
